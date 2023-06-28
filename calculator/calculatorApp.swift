@@ -2,7 +2,7 @@
 //  calculatorApp.swift
 //  calculator
 //
-//  Created by Nhật Hoàng on 26/06/2023.
+//  Created by Việt Tiến (Hoàng) on 26/06/2023.
 //
 
 import SwiftUI
